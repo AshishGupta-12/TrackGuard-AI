@@ -9,10 +9,11 @@ __pycache__/
 database/*.csv
 database/*.db
 
+database/latest_detection.jpg
+database/latest_detection_video.jpg
+database/trackguard_report.pdf
+
 *.pt
 !models/best.pt
 
 .env
-database/latest_detection.jpg
-database/latest_detection_video.jpg
-database/trackguard_report.pdf
